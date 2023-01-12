@@ -1,0 +1,4 @@
+tqdm==4.64.1
+deep-translator==1.9.1
+nltk==3.8.1
+farm-haystack==1.12.2
